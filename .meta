@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "history": "https://github.com/MSACloudComputing/history.git",
+    "video-streaming": "https://github.com/MSACloudComputing/video-streaming.git",
+    "db": "https://github.com/MSACloudComputing/db.git"
+  }
+}
